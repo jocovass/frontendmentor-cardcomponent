@@ -4,8 +4,8 @@
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/jocovass/frontendmentor-cardcomponent)
+- Live Site URL: [Add live site URL here](http://www.card-component.jococodes.com/)
 
 ## My process
 
@@ -19,6 +19,6 @@
 
 ## Author
 
-- Website - [Jozsef Bass](https://www.jococodes.com)
+- Website - [Jozsef Vass](https://www.jococodes.com)
 - Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/jocovass)
 - Twitter - [@CodesJoco](https://twitter.com/CodesJoco)
